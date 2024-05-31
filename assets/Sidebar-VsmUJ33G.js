@@ -1,0 +1,1 @@
+import{r as a,j as s,c as t}from"./index-C2paMJ73.js";const i="_sidebar_106uz_1",c={sidebar:i},d=a.memo(({className:e,title:r})=>s.jsx("aside",{className:t(c.sidebar,{},[e]),children:s.jsx("h2",{children:r})}));export{d as S};

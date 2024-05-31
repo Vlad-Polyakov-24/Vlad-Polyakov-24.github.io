@@ -1,0 +1,1 @@
+import{j as a,c}from"./index-C2paMJ73.js";const e="_container_pi1qn_1",r="_container--fluid_pi1qn_9",n={container:e,"container--fluid":"_container--fluid_pi1qn_9",containerFluid:r},l=({className:i,children:t,fluid:o})=>a.jsx("div",{className:c(n.container,{[n.containerFluid]:o},[i]),children:t});export{l as C};

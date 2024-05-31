@@ -1,0 +1,1 @@
+import{r as s,j as e,c as r}from"./index-C2paMJ73.js";import{S as t}from"./Sidebar-VsmUJ33G.js";const a={},i=s.memo(()=>e.jsxs(e.Fragment,{children:[e.jsx(t,{title:"Inventory Page Sidebar"}),e.jsx("section",{className:r(a.inventory,{},[]),children:e.jsx("h1",{children:"Inventory Page"})})]}));export{i as default};
