@@ -1,1 +1,0 @@
-import{r as e,j as s,c as t}from"./index-Cnim4_zE.js";import{S as a}from"./Sidebar-DrI58PBg.js";const r={},c=e.memo(()=>s.jsxs(s.Fragment,{children:[s.jsx(a,{title:"Shifts Page Sidebar"}),s.jsx("section",{className:t(r.shifts,{},[]),children:s.jsx("h1",{children:"Shifts Page"})})]}));export{c as default};
