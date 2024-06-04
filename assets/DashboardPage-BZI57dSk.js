@@ -1,0 +1,1 @@
+import{j as s,c as r}from"./index-DcqthmhF.js";import{C as o}from"./Container-C97_DzpR.js";const d="_dashboard_12xvv_1",e={dashboard:d},c=({className:a})=>s.jsx("section",{className:r(e.dashboard,{},[a]),children:s.jsx(o,{children:s.jsx("h1",{children:"Dashboard Page"})})});export{c as default};
