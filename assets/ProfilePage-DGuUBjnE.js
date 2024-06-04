@@ -1,1 +1,0 @@
-import{r,j as s,c as o}from"./index-DcqthmhF.js";import{C as t}from"./Container-C97_DzpR.js";const a="_profile_1d8tv_1",i={profile:a},c=r.memo(({className:e})=>s.jsx("section",{className:o(i.profile,{},[e]),children:s.jsx(t,{children:s.jsx("h1",{children:"Settings Page"})})}));export{c as default};
