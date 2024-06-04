@@ -1,1 +1,0 @@
-import{r as t,j as o,c as s}from"./index-CjUSHzmp.js";import{C as e}from"./Container-DSTU5jJR.js";const r="_not-found_1ojh3_1",a={"not-found":"_not-found_1ojh3_1",notFound:r},u=t.memo(({className:n})=>o.jsx("section",{className:s(a.notFound,{},[n]),children:o.jsx(e,{children:o.jsx("h1",{children:"Page not found!"})})}));export{u as default};

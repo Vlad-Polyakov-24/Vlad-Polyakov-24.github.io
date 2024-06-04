@@ -1,1 +1,0 @@
-import{r as s,j as e,c as a}from"./index-CjUSHzmp.js";import{S as n}from"./Sidebar-guTt74uW.js";const r={},o=s.memo(()=>e.jsxs(e.Fragment,{children:[e.jsx(n,{title:"Funnel Page Sidebar"}),e.jsx("section",{className:a(r.funnel,{},[]),children:e.jsx("h1",{children:"Funnel Page"})})]}));export{o as default};
